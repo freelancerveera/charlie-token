@@ -1,0 +1,16 @@
+{
+  "name": "Charlie",
+  "symbol": "CHLE",
+  "type": "trc20",
+  "decimals": 6,
+  "address": "YOUR_TOKEN_CONTRACT_ADDRESS_HERE",
+  "description": "Charlie (CHLE) is a TRC-20 stable utility token built for Web3 and modern payments.",
+  "website": "https://charlietoken.org",
+  "email": "support@charlietoken.org",
+  "whitepaper": "https://charlietoken.org/whitepaper.pdf",
+  "facebook": "",
+  "twitter": "https://twitter.com/charlietoken",
+  "telegram": "https://t.me/charlietoken",
+  "github": "https://github.com/YOUR_GITHUB_USERNAME/charlie-token",
+  "logo": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/charlie-token/main/metadata/CHLE/logo.png"
+}
